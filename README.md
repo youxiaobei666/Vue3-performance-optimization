@@ -1,19 +1,23 @@
-# table_render
+# table_render 列表性能优化
 
-## Project setup
+## 依赖下载
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 本地服务
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包构建
+
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 自定义设置
+
+查看 [配置查阅](https://cli.vuejs.org/config/).
